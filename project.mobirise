@@ -61,12 +61,12 @@
     "screenshot": "screenshot.png",
     "favicon": false,
     "noImageResize": true,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://devoncloete.github.io/mywedinvite/page5.html",
     "gdpr": false,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": false
   },
   "pages": {
