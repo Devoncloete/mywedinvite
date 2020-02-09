@@ -67,7 +67,8 @@
     "siteUrl": "https://devoncloete.github.io/mywedinvite/page5.html",
     "gdpr": false,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "google-analytics": "<!-- Start of HubSpot Embed Code -->\n  <script type=\"text/javascript\" id=\"hs-script-loader\" async defer src=\"//js.hs-scripts.com/6802163.js\"></script>\n<!-- End of HubSpot Embed Code -->\n\n"
   },
   "pages": {
     "page1.html": {
